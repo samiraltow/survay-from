@@ -1,0 +1,27 @@
+#image{
+    max-width:1005;
+  height: auto;
+  display: block;
+  text-align: center; 
+  }
+  h1,p,h2{
+    height: auto;
+    width: auto;
+    text-align: center;
+    font-family: verdana;
+  }
+  #img-caption{
+    text-align: center;
+  }
+  img{
+   display: block; 
+  }
+  figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+  
